@@ -48,4 +48,6 @@ int_map_laCoWfhPropByRace
 :::
 :::
 
-Charts put together using `tidycensus` and `plotly`. Inspiration taken from [Matthew Raifman](https://twitter.com/MatthewRaifman/status/1570871070445678600)
+Charts put together using `tidycensus` and `plotly`. Inspiration taken from [Matthew Raifman](https://twitter.com/MatthewRaifman/status/1570871070445678600).
+
+[Peek at the Github repo](https://github.com/morrisLuke/wfhByRace) to see how it all came together.
